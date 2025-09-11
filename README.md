@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm moisnx
+
+I just like building things.
+
+## 🛠️ Tech Stack
+- **Languages:** Python, C, JavaScript, TypeScript, HTML, CSS
+- **Frameworks/Libraries:** Next.js, Vue.js, SvelteKit
+
+## 🚀 Notable Projects
+- [c-student-gradebook](https://github.com/moisnx/c-student-gradebook): A C project for managing student grades
+- [c-musicplaylist-project](https://github.com/moisnx/c-musicplaylist-project): Music playlist management in C
+- [X-Card](https://github.com/moisnx/x-card): A beautiful X card generator app
+## 🌱 What I’m Up To
+- Always exploring new frameworks and languages
+- Building, breaking, and learning from cool projects
 
 <!--
-**moisnx/moisnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+If you want to connect, feel free to open an issue or check out my repositories!
 -->
+
+![moisnx's GitHub stats](https://github-readme-stats.vercel.app/api?username=moisnx&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moisnx&layout=compact&theme=radical)
