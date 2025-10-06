@@ -1,12 +1,14 @@
-# 👋 Hi, I'm moisnx
+# 👋 Hi, I'm moi
 
 I just like building things.
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, C, JavaScript, TypeScript, HTML, CSS
-- **Frameworks/Libraries:** Next.js, Vue.js, SvelteKit
+- **Languages:** Python, C, C++, JavaScript, TypeScript, HTML, CSS
+- **Frameworks/Libraries:** Next.js, Vue.js, SvelteKit'
+- **Toolking:** Cmake, Git, Vscode, Linux, Ubuntu
 
 ## 🚀 Notable Projects
+- [arc-editor](https://github.com/moisnx/arc): A blazing fast modaless modern editor built in C++
 - [c-student-gradebook](https://github.com/moisnx/c-student-gradebook): A C project for managing student grades
 - [c-musicplaylist-project](https://github.com/moisnx/c-musicplaylist-project): Music playlist management in C
 - [X-Card](https://github.com/moisnx/x-card): A beautiful X card generator app
