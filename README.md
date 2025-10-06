@@ -5,7 +5,7 @@ I just like building things.
 ## 🛠️ Tech Stack
 - **Languages:** Python, C, C++, JavaScript, TypeScript, HTML, CSS
 - **Frameworks/Libraries:** Next.js, Vue.js, SvelteKit'
-- **Toolking:** Cmake, Git, Vscode, Linux, Ubuntu
+- **Tooling:** Cmake, Git, Vscode, Linux, Ubuntu
 
 ## 🚀 Notable Projects
 - [arc-editor](https://github.com/moisnx/arc): A blazing fast modaless modern editor built in C++
