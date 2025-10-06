@@ -16,9 +16,5 @@ I just like building things.
 - Always exploring new frameworks and languages
 - Building, breaking, and learning from cool projects
 
-<!--
-If you want to connect, feel free to open an issue or check out my repositories!
--->
-
 ![moisnx's GitHub stats](https://github-readme-stats.vercel.app/api?username=moisnx&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moisnx&layout=compact&theme=radical)
