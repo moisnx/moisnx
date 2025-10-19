@@ -37,8 +37,7 @@
 ## 🚩 Featured Projects
 
 - [**arc-editor**](https://github.com/moisnx/arc): Blazing-fast, modern editor written in C++
-- [**c-student-gradebook**](https://github.com/moisnx/c-student-gradebook): Student grade manager in C
-- [**c-musicplaylist-project**](https://github.com/moisnx/c-musicplaylist-project): Music playlist CLI in C
+- [**flux**](https://github.com/moisnx/flux): A blazingly fast, beautiful terminal file browser built with C++ and ncurses
 - [**X-Card**](https://github.com/moisnx/x-card): Beautiful, customizable card generator
 
 ---
@@ -56,4 +55,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=moisnx&show_icons=true&theme=radical" height="140"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisnx&layout=compact&theme=radical" height="140"/>
 </p>
-
